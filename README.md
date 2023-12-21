@@ -8,6 +8,12 @@ Clicking Set will set the value of the Item.
 
 Clicking Delete will blank the value of the Item.
 
+### How to run the app
+
+1. Clone this repository.
+2. Open it in Android Studio.
+3. Run the app in a device/emulator.
+
 ### Project content
 
 * Android View Folder
